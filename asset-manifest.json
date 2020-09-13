@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/puzzle-charms-support/static/css/main.5f361e03.chunk.css",
+    "main.js": "/puzzle-charms-support/static/js/main.c4c17625.chunk.js",
+    "main.js.map": "/puzzle-charms-support/static/js/main.c4c17625.chunk.js.map",
+    "runtime-main.js": "/puzzle-charms-support/static/js/runtime-main.4bb3d876.js",
+    "runtime-main.js.map": "/puzzle-charms-support/static/js/runtime-main.4bb3d876.js.map",
+    "static/js/2.0876a9fa.chunk.js": "/puzzle-charms-support/static/js/2.0876a9fa.chunk.js",
+    "static/js/2.0876a9fa.chunk.js.map": "/puzzle-charms-support/static/js/2.0876a9fa.chunk.js.map",
+    "index.html": "/puzzle-charms-support/index.html",
+    "precache-manifest.6600610aa9260919994ab42f5064071d.js": "/puzzle-charms-support/precache-manifest.6600610aa9260919994ab42f5064071d.js",
+    "service-worker.js": "/puzzle-charms-support/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/puzzle-charms-support/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.0876a9fa.chunk.js.LICENSE.txt": "/puzzle-charms-support/static/js/2.0876a9fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bb3d876.js",
+    "static/js/2.0876a9fa.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c4c17625.chunk.js"
+  ]
+}
